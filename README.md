@@ -1,2 +1,17 @@
 # PROYECTO_INVENTARIO
 PRACTICA 12 DE LA MATERIA DE TECNOLOGÍAS DE APLICACIONES WEB
+
+# Práctica no. 12
+Fase no. 1: 60%
+Ejercicio de control de inventarios con admin theme vdg:
+
+ademin:
+https://github.com/mhrodriguez/vdg-theme
+
+demo: 
+http://mariorc.com.mx/php-inventarios/
+
+Documentar código, 
+
+
+Fase 2: JOOMLA
